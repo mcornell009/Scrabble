@@ -1,0 +1,36 @@
+
+Z: 1 tile, 10 points
+Q: 1 tile, 10 points
+J: 1 tile, 8 points
+X: 1 tile, 8 points
+K: 1 tile, 5 points
+
+V: 2 tiles, 4 points
+W: 2 tiles, 4 points
+Y: 2 tiles, 4 points
+F: 2 tiles, 4 points
+H: 2 tiles, 4 points
+M: 2 tiles, 3 points
+P: 2 tiles, 3 points
+B: 2 tiles, 3 points
+C: 2 tiles, 3 points
+
+*: 2 tiles, 0 points
+
+G: 3 tiles, 2 points
+
+D: 4 tiles, 2 points
+L: 4 tiles, 1 point
+S: 4 tiles, 1 point
+U: 4 tiles, 1 point
+
+N: 6 tiles, 1 point
+R: 6 tiles, 1 point
+T: 6 tiles, 1 point
+
+O: 8 tiles, 1 point
+
+A: 9 tiles, 1 point
+I: 9 tiles, 1 point
+
+E: 12 tiles, 1 point
