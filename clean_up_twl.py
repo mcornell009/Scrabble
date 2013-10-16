@@ -5,7 +5,7 @@ from shutil import move
 from os import remove, close
 
 """
-    util to clean up the block of text at 
+    util to clean up the block of tournament word list text at 
     http://kisa.ca/scrabble/
     so I can use it with enchant is a wordlist
 """
